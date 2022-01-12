@@ -2,8 +2,8 @@ name: Build Eleventy
 on:
   push:
     branches:
-     - master
-	  
+      - master
+
 jobs:
   build_deploy:
     runs-on: ubuntu-18.04
