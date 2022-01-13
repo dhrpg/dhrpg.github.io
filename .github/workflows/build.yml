@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - main
-	  #Make sure this is 'main' and not 'master'
 
 jobs:
   build:
