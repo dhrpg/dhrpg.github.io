@@ -13,5 +13,5 @@ The DH RPG was created by [Quinn Dombrowski](http://www.quinndombrowski.com), wh
 
 You can read more about the RPG and the course in:
 
-* "Rolling the Dice on Project Management", forthcoming in *IDEAH*
+* "[Rolling the Dice on Project Management](https://ideah.pubpub.org/pub/9xiyfz6h/release/3)", *IDEAH* vol. 2, issue 2.
 * "Academia is a Dice Roll", with Agnieszka Backman, Sabrina Grimberg, and Melissa Hosek, forthcoming in *Debates in DH: The Digital Futures of Graduate Study in the Humanities*, eds. Simon Appleford, Gabriel Hankins, and Anouk Lang.
